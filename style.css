@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  .center{
+    padding-left: calc(50% - 600px);
+    padding-right: calc(50% - 600px);
+  }
+
+  .top {
+    height: 735px;
+    background-image: url(img/igra1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .text1{
+    color: rgb(32, 32, 39);
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 78px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 46px;
+    margin-left: 120px;
+    margin-right: 390px;
+  }
+  .block{
+
+    color: rgb(32, 32, 39);
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+   font-family: Montserrat;
+   margin-left: 120px;
+   margin-right: 390px;
+  }
+  .button2{
+  background: rgb(0, 0, 0);
+  text-align: center;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  border-radius: 60px;
+  margin-top: 18px;
+  height: 55px;
+  width: 247px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  margin-left: 5px;
+  color: rgb(255, 255, 255);
+  font-family: Montserrat;
+  font-size: 24px;
+  margin-left: 120px;
+margin-right: 246px;
+margin-top: 48px;
+  }
+.igra2{
+    display: flex;
+    margin-left: 63px;
+  }
+.igra1{
+    margin-left: 156px;
+    margin-top: 69px;
+      }
+.igra3{
+    margin-left: 1011px;
+}
+.igra4{
+    margin-left: 948px;
+}
+.igra5{
+position: absolute;
+margin-left: 1160px;
+margin-top: -260px;
+transform: rotate(1.23deg);
+}
+.igra6{
+    position: absolute;
+    margin-left: 1010px;
+}
+.igra7{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -180px;
+}
+.igra8{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -230px;
+}
+.igra9{
+    position: absolute;
+    margin-left: 270px;
+    margin-top: -150px;
+}
+.igra10{
+    position: absolute;
+    margin-left: 395px;
+    margin-top: 98px;
+
+}
+.for-box{
+    height: 1200px;
+    background-image: url(img/igra2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .box-igra1{
+color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 64px;
+font-weight: 700;
+line-height: 78px;
+  }
+.box-igra2{
+color: rgb(255, 255, 255);
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 400;
+line-height: 32px;
+}
+.box1{
+    width: 350px;
+}
