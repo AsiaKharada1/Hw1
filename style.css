@@ -30,7 +30,7 @@
     display: flex;
     flex-direction: column;
     margin-top: 46px;
-    margin-left: 120px;
+    margin-left: 20px;
     margin-right: 390px;
   }
   .block{
@@ -40,7 +40,7 @@
     font-weight: 400;
     line-height: 32px;
    font-family: Montserrat;
-   margin-left: 120px;
+   margin-left: 20px;
    margin-right: 390px;
   }
   .button2{
@@ -59,55 +59,56 @@
   color: rgb(255, 255, 255);
   font-family: Montserrat;
   font-size: 24px;
-  margin-left: 120px;
+  margin-left: 20px;
 margin-right: 246px;
 margin-top: 48px;
   }
 .igra2{
     display: flex;
-    margin-left: 63px;
+    margin-left: 0px;
   }
 .igra1{
-    margin-left: 156px;
+    margin-left: 41px;
     margin-top: 69px;
       }
 .igra3{
-    margin-left: 1011px;
+    margin-left: 600px;
 }
 .igra4{
-    margin-left: 948px;
+    margin-left: 688px;
 }
 .igra5{
 position: absolute;
-margin-left: 1160px;
+margin-left: 750px;
 margin-top: -260px;
 transform: rotate(1.23deg);
 }
 .igra6{
     position: absolute;
-    margin-left: 1010px;
+    margin-left: 750px;
 }
 .igra7{
     position: absolute;
-    margin-left: 600px;
-    margin-top: -180px;
+    margin-left: 320px;
+    margin-top: -230px;
 }
 .igra8{
     position: absolute;
-    margin-left: 250px;
-    margin-top: -230px;
+    margin-left: 280px;
+    margin-top: -295px;
 }
 .igra9{
     position: absolute;
-    margin-left: 270px;
-    margin-top: -150px;
+    margin-left: 320px;
+    margin-top: -237px;
 }
 .igra10{
     position: absolute;
-    margin-left: 395px;
-    margin-top: 98px;
+    margin-left: 419px;
+    margin-top: -90px;
 
 }
+
 .for-box{
     height: 1200px;
     background-image: url(img/igra2.jpeg);
@@ -131,4 +132,10 @@ line-height: 32px;
 }
 .box1{
     width: 350px;
+}
+
+.box1:hover{
+  width: 350px;
+  transform: scale(1.1);
+  transition: 1s;
 }
