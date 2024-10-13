@@ -1,0 +1,20 @@
+<svg width="91.000000" height="91.000000" viewBox="0 0 91 91" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_22_2224_dd" x="0.000000" y="0.000000" width="91.000000" height="91.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_22_2224_dd)">
+		<path id="Star 4" d="M34.29 30.29L4 41.5L34.29 52.7L45.5 83L56.7 52.7L87 41.5L56.7 30.29L45.5 0L34.29 30.29ZM45.5 2.88L35.06 31.06L6.88 41.5L35.06 51.93L45.5 80.11L55.93 51.93L84.11 41.5L55.93 31.06L45.5 2.88Z" fill="#202027" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
