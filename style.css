@@ -30,7 +30,7 @@
     display: flex;
     flex-direction: column;
     margin-top: 46px;
-    margin-left: 20px;
+    margin-left: 107px;
     width: 799px;
   }
   .block{
@@ -40,13 +40,13 @@
     font-weight: 400;
     line-height: 32px;
    font-family: Montserrat;
-   margin-left: 20px;
+   margin-left: 107px;
    margin-right: 390px;
   }
   .button2{
   background: rgb(0, 0, 0);
   text-align: center;
-  border: 1px solid #000;
+  border: 1px solid #202027;
   box-sizing: border-box;
   border-radius: 60px;
   margin-top: 18px;
@@ -59,11 +59,42 @@
   color: rgb(255, 255, 255);
   font-family: Montserrat;
   font-size: 24px;
-  margin-left: 20px;
-margin-right: 246px;
-margin-top: 48px;
+  margin-left: 105px;
+  margin-right: 246px;
+  margin-top: 48px;
   }
 
+  .button2:hover{
+    background: white;
+    text-align: center;
+    border: 1px solid #202027;
+    color: black;
+  }
+
+.scroll{
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 33px;
+  letter-spacing: 0.04em;
+  text-align: left;
+   overflow-x: auto;
+   overflow-y: hidden;
+   -ms-overflow-style: none;
+   white-space: nowrap;
+   width: 160%;
+   background: #BCEC30;
+  display: flex;
+  margin-left: -356px;
+  height: 61px;
+  gap: 22px;
+}
+
+.stars{
+  width: 36px;
+  height: 36px;  
+
+}
 
 .igra2{
     display: flex;
@@ -74,16 +105,15 @@ margin-top: 48px;
     margin-top: 69px;
       }
 .igra3{
-    margin-left: 600px;
+    margin-left: 736px;
 }
 .igra4{
-    margin-left: 688px;
+    margin-left: 818px;
 }
 .igra5{
 position: absolute;
-margin-left: 750px;
-margin-top: -260px;
-transform: rotate(1.23deg);
+margin-left: 969px;
+transform: rotate(0.77deg);
 }
 
 .for-box{
@@ -98,21 +128,62 @@ color: rgb(255, 255, 255);
 font-family: Montserrat;
 font-size: 64px;
 font-weight: 700;
-line-height: 78px;
+line-height: 78.02px;
+padding-top: 41px;
+  margin-bottom: 17px;
   }
+
 .box-igra2{
 color: rgb(255, 255, 255);
-font-family: Montserrat;
-font-size: 24px;
-font-weight: 400;
-line-height: 32px;
+width: 480px;
+height: 26px;
 }
 .box1{
     width: 350px;
+    height: 420px;
 }
 
 .box1:hover{
   width: 350px;
   transform: scale(1.1);
   transition: 1s;
+}
+
+.star{
+  width: 584.72px;
+  height: 584.72px;
+  top: 945.92px;
+  border: 1px 0px 0px 0px; 
+  transform: rotate(-21.23deg);
+  position: absolute;
+  margin-left: 1073px;
+  margin-top: -200px;
+}
+
+.box-ru{
+  padding-top: 49px;
+}
+
+.star1{
+  width: 31.34px;
+  height: 31.34px;
+  top: 1570px;
+  rotate: -5.45 deg;
+  position: absolute;
+  margin-left: -1121px;
+  margin-top: -260px;
+}
+
+.star2{
+  width: 54.6px;
+  height: 54.6px;
+  top: 1622px;
+  left: 45.18px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  rotate: -5.45 deg;
+  position: absolute;  
+  margin-top: -250px;
+  margin-left: 195px;
 }
