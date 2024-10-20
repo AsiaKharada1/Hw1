@@ -521,3 +521,13 @@ margin-bottom: 20px;
         width: 143px;
         height: 141px;
       }
+
+      .catalog{
+        font-family: Montserrat;
+        font-size: 94px;
+        font-weight: 600;
+        line-height: 39.26px;
+        text-align: center;
+        padding-top: 60px;
+        color: black;
+      }
